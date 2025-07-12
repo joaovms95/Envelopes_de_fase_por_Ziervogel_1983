@@ -1,4 +1,4 @@
-#O arquivo "Envelopes_de_fase_por_Ziervogel_1983" contém códigos em Python para criação de envelope de fases para misturas de hidrocarbonetos. O algoritmo se baseia no método proposto por Ziervogel e Poling (1983), e faz parte da dissretação de mestrado de Silva (2025).
+#O arquivo "Envelopes_de_fase_por_Ziervogel_1983" contém códigos em Python para criação de envelope de fases para misturas de hidrocarbonetos. O algoritmo se baseia no método proposto por Ziervogel e Poling (1983), e faz parte da dissertação de mestrado de Silva (2025).
 
 Referências:
 
